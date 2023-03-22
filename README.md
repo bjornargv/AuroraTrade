@@ -29,20 +29,11 @@ Before using the bot, you need to have the following:
 
 ## Installation
 
-1. Clone the repository or download the Python script:
+1. Clone the repository, open the folder and install the required pip libraries with this oneliner:
 
 
 ```
-git clone https://github.com/yourusername/kraken-btc-nok-bot.git](https://github.com/bjornargv/AuroraTrade
-cd AuroraTrade
-```
-
-
-2. Install the required Python libraries:
-
-
-```
-pip install ccxt numpy TA-Lib
+git clone https://github.com/bjornargv/AuroraTrade && cd AuroraTrade && pip install requirements.txt
 ```
 
 
