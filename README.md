@@ -1,5 +1,5 @@
 # AuroraTrade
-AuroraTrade is an elegant day trading bot designed to navigate the captivating world of cryptocurrency. Focusing on the BTC/NOK trading pair on Kraken, the bot employs a simple yet effective Moving Average Crossover strategy. AuroraTrade aims to provide users with a delightful trading experience that resonates with the mesmerizing beauty of the Nordic skies.
+AuroraTrade is an elegant day trading bot designed to navigate the captivating world of cryptocurrency. Focusing on the BTC/NOK trading pair on Kraken, the bot employs a simple yet effective Moving Average Crossover strategy. AuroraTrade aims to provide users with a delightful trading experience that resonates with the beauty of the Nordic skies.
 
 ### Technical stuff
 
